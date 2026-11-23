@@ -1,0 +1,15 @@
+D:\LoanManagementSystem\backend\LoanManagement.Application\bin\Debug\net10.0\LoanManagement.Application.deps.json
+D:\LoanManagementSystem\backend\LoanManagement.Application\bin\Debug\net10.0\LoanManagement.Application.dll
+D:\LoanManagementSystem\backend\LoanManagement.Application\bin\Debug\net10.0\LoanManagement.Application.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Application\bin\Debug\net10.0\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Application\bin\Debug\net10.0\LoanManagement.Domain.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.csproj.AssemblyReference.cache
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.AssemblyInfoInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.AssemblyInfo.cs
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.csproj.CoreCompileInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanMana.55037E02.Up2Date
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.dll
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\refint\LoanManagement.Application.dll
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\ref\LoanManagement.Application.dll

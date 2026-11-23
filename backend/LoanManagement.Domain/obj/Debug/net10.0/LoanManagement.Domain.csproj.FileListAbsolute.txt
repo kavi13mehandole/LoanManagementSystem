@@ -1,0 +1,11 @@
+D:\LoanManagementSystem\backend\LoanManagement.Domain\bin\Debug\net10.0\LoanManagement.Domain.deps.json
+D:\LoanManagementSystem\backend\LoanManagement.Domain\bin\Debug\net10.0\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Domain\bin\Debug\net10.0\LoanManagement.Domain.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.AssemblyInfoInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.AssemblyInfo.cs
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.csproj.CoreCompileInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\refint\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\ref\LoanManagement.Domain.dll

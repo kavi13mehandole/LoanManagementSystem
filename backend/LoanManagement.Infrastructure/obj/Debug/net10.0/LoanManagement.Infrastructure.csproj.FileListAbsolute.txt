@@ -1,0 +1,17 @@
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Infrastructure.deps.json
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Infrastructure.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Infrastructure.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Application.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Application.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Domain.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.AssemblyInfo.cs
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanMana.0600DE6A.Up2Date
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\refint\LoanManagement.Infrastructure.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.pdb
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\ref\LoanManagement.Infrastructure.dll
