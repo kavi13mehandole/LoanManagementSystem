@@ -15,3 +15,6 @@ D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\
 D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\refint\LoanManagement.Infrastructure.dll
 D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.pdb
 D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\ref\LoanManagement.Infrastructure.dll
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.sourcelink.json
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\bin\Debug\net10.0\LoanManagement.Infrastructure.runtimeconfig.json
+D:\LoanManagementSystem\backend\LoanManagement.Infrastructure\obj\Debug\net10.0\LoanManagement.Infrastructure.genruntimeconfig.cache

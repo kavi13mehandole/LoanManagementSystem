@@ -13,3 +13,4 @@ D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\Loa
 D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\refint\LoanManagement.Application.dll
 D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.pdb
 D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\ref\LoanManagement.Application.dll
+D:\LoanManagementSystem\backend\LoanManagement.Application\obj\Debug\net10.0\LoanManagement.Application.sourcelink.json

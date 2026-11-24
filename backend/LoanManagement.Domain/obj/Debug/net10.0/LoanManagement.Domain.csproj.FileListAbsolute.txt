@@ -9,3 +9,4 @@ D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanMana
 D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\refint\LoanManagement.Domain.dll
 D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.pdb
 D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\ref\LoanManagement.Domain.dll
+D:\LoanManagementSystem\backend\LoanManagement.Domain\obj\Debug\net10.0\LoanManagement.Domain.sourcelink.json
